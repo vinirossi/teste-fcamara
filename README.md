@@ -36,8 +36,8 @@ START
     *none
     
 ### 7. Qual a diferença entre inline e inline-block?
-       Inline alinha os elementos um do lado do outro, porém perde a largura e altura dos elemtnos, porém perde a altura e a
-       largura
+       Para posicionar os elementos um do lado do outro, precisamos utilizar a propriedade inline, porém ao escolher essa opção
+       ele acaba não aparecendo o a altura e largura. Tem a outra propriedade que é o display block, nessa é possível posicionar os            elementos e escolher o a altura e largura, porém eles não ficam alinhados um do lado do outro, por isso é utilizado o display            inline-block, ao inserir isso no seu código, é possivel alinhar os elementos e ao mesmo tempo escolher a largura e altura do seu        elemento.
        
 ### 8. Qual a diferença entre elementos posicionados de forma relativa, fixa, absoluta e estática?
         

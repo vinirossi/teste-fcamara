@@ -40,7 +40,14 @@ START
        ele acaba não aparecendo o a altura e largura. Tem a outra propriedade que é o display block, nessa é possível posicionar os            elementos e escolher o a altura e largura, porém eles não ficam alinhados um do lado do outro, por isso é utilizado o display            inline-block, ao inserir isso no seu código, é possivel alinhar os elementos e ao mesmo tempo escolher a largura e altura do seu        elemento.
        
 ### 8. Qual a diferença entre elementos posicionados de forma relativa, fixa, absoluta e estática?
-        
+       Relative posiciona o elemento de forma relativa ao local onde foi criafo, mas para posicionar de forma correta
+       é necessário usar junto ao position relative, as propriedades top, right, bottom e left.
+       Fixed posiciona o elemento de forma fixa na tela, como por exemplo fixar um header com menu de navegação no
+       tipo da tela.
+       Absolute posiciona o elemento onde a gente quer, ou seja, esquerda, direita, em cima ou abaixo
+       de acordo com a nossa tela.
+       Static nada mais é que um elemento estático, ou seja, não se move, não acontece nada.
+       
 ### 9. Qual a diferença entre .call e .apply?
     Não tenho conhecimento sobre.
     

@@ -36,10 +36,11 @@ START
     *none
     
 ### 7. Qual a diferença entre inline e inline-block?
-       Inline alinha os elementos um do lado do outro, porém perde a largura e altura dos elemtnos.
+       Inline alinha os elementos um do lado do outro, porém perde a largura e altura dos elemtnos, porém perde a altura e a
+       largura
        
 ### 8. Qual a diferença entre elementos posicionados de forma relativa, fixa, absoluta e estática?
-
+        
 ### 9. Qual a diferença entre .call e .apply?
     Não tenho conhecimento sobre.
     

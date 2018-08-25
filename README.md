@@ -3,11 +3,11 @@
 
 START
 ### 1. Se você tivesse 5 diferentes arquivos de folhas de estilo, qual seria a melhor forma de integrá-los no site?
-   Eu usaria no caso o elemento <link rel="stylesheet" href="nome_do_arquivo.css"> 5 vezes no código. Não me aprofundei
-   muito no assunto, mas acho que com o pré-processador SASS pode ajudar isso também.
+   Eu usaria no caso o elemento <link rel="stylesheet" href="nome_do_arquivo.css"> 5 vezes no código.
+   Porém, com pré-processador SASS pode ajudar isso também.
    
 ### 2. Fale 3 formas de diminuir o page load (tempo de carregamento real e percebido).
-    *Usando um Minify (Biblioteca que pode deixar seu código JavaScript e CSS minificado ou seja diminuir o tamanho dele em kbytes.)
+    *Usando um Minify (Biblioteca que pode deixar seu código JavaScript e CSS minificado, ou seja, diminuir o tamanho dele em kbytes.)
     *Otimizar imagens
     *Usar o HTML Tidy para removar os espaços em brancos.
     
